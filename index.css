@@ -39,3 +39,8 @@ footer {
   width: 100vw;
   flex-direction: column;
 }
+
+.setWidth {
+    flex-basis: 100px;
+    flex-grow:1;
+}
